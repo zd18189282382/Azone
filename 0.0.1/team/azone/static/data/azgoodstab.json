@@ -1,0 +1,91 @@
+{
+  "businessareaData":[
+    {"pageName":"综合",
+      "id":"001",
+        "picbig":"../../static/img/goodslist_pro1.jpg" ,
+        "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "banner":[
+            {
+              "bannerImg":"../../static/img/goodslist_pro1.jpg"
+            },
+            {
+              "bannerImg":"../../static/img/goodsinfo_banner1.jpg"
+            },
+            {
+              "bannerImg":"../../static/img/goodsinfo_banner2.jpg"
+            },
+            {
+              "bannerImg":"../../static/img/goodsinfo_banner3.jpg"
+            },
+            {
+              "bannerImg":"../../static/img/goodsinfo_banner4.jpg"
+            }
+          ],
+        "shopi":"自营",
+        "shopcont":" xiaomi/小米 小米8青春版 4GB+64GB 深空灰 移动联通电信4G全网通手机 AI双摄 全面屏",
+        "suggest":["A11处理器","全面屏","无线充电"],
+        "price":"1366",
+        "gos":"领券200-400",
+          "num":"0",
+      "checkStatus":true
+    },
+    {"pageName":"销量",
+      "id":"002",
+        "picbig":"../../static/img/goodslist_pro3.png" ,
+        "picjiao":"../../static/img/goodslist_nianhuo.png",
+      "banner":[
+        {
+          "bannerImg":"../../static/img/goodslist_pro3.png"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner1.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner2.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner3.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner4.jpg"
+        }
+      ],
+        "shopi":"自营",
+        "shopcont":"Apple iPhone 8 Plus 64GB 全网通4G手机",
+        "suggest":[{"a":"A11处理器","b":"全面屏","c":"后置双摄"}],
+        "price":"5588",
+        "go":"满5500-250",
+      "num":"0",
+      "checkStatus":true
+    },
+    {"pageName":"价格",
+        "id":"003",
+        "picbig":"../../static/img/goodslist_pro2.jpg" ,
+        "picjiao":"../../static/img/goodslist_nianhuo.png",
+        "banner":[
+        {
+          "bannerImg":"../../static/img/goodslist_pro2.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner1.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner2.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner3.jpg"
+        },
+        {
+          "bannerImg":"../../static/img/goodsinfo_banner4.jpg"
+        }
+      ],
+        "shopi":"苏宁国际",
+        "shopcont":"HUAWEI/华为mate20 RS保时捷设计限量版 最新旗舰mate20 RS 8+512GB 炫黑",
+        "suggest":"",
+        "price":"23388",
+        "go":"领券5000-50",
+        "num":"0",
+        "checkStatus":true
+    }
+  ]
+}
