@@ -1,0 +1,236 @@
+{
+  "businessareaData":[
+    {"pageName":"综合",
+      "product":[
+        {
+          "id":"001",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_pro1.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":" xiaomi/小米 小米8青春版 4GB+64GB 深空灰 移动联通电信4G全网通手机 AI双摄 全面屏",
+          "suggest":["A11处理器","全面屏","无线充电"],
+          "price":"1366",
+          "qiang":"抢",
+          "pingjia":"70万+条评价",
+          "haoping":"好评99%",
+          "gos":"领券200-400"
+        },
+        {
+          "id":"002",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_zhpro1.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"Apple iPhone 8 Plus 64GB 全网通4G手机",
+          "suggest":["A11处理器","全面双玻璃","后置双摄"],
+          "price":"5188",
+          "qiang":"大惠聚",
+          "pingjia":"133万+条评价",
+          "haoping":"好评99%",
+          "gos":"赠品"
+        },
+        {
+          "id":"003",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_zhpro2.jpg" ,
+          "picjiao":"../../static/img/goodslist_yuding.png",
+          "shopi":"自营",
+          "shopcont":" Xiaomi/小米 Redmi 红米Note 7 4GB+64GB 亮黑色 全网通4G 双卡双待 小水滴全面屏拍照游戏智能手机",
+          "suggest":["A11处理器","全面屏","无线充电"],
+          "price":"1199",
+          "qiang":"预定",
+          "gos":"赠品"
+        },
+        {
+          "id":"004",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_zhpro3.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"荣耀9i 4GB+64GB 全网通4G手机",
+          "suggest":["全面屏","前置1600万","潮美轻旗舰"],
+          "price":"1366",
+          "qiang":"抢",
+          "pingjia":"6.3万+条评价",
+          "haoping":"好评率99%",
+          "gos":"赠品"
+        },
+        {
+          "id":"005",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_zhpro4.png" ,
+          "picjiao":"../../static/img/goodslist_yuding.png",
+          "shopi":"自营",
+          "shopcont":"【预售惊喜价???9】Apple iPhone XS 64GB 金色 移动联通电信4G手机",
+          "suggest":["全面屏","无线充电"],
+          "price":"8699",
+          "qiang":"预定",
+          "pingjia":"4.4万+评价",
+          "haoping":"好评率99%",
+          "gos":"赠品"
+        }
+      ]
+    },
+    {"pageName":"销量",
+      "product":[
+        {
+          "id":"006",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_pro3.png" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"Apple iPhone 8 Plus 64GB 全网通4G手机",
+          "suggest":["A11处理器","全面屏","后置双摄"],
+          "price":"5588",
+          "hui":"大惠聚",
+          "go":"满5500-250",
+          "pingjia":"130万+条评价",
+          "haoping":"好评率99%"
+        },
+        {
+          "id":"007",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_xlpro1.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"华为/荣耀（honor）畅玩7X 4GB+32GB 全网通标配版 极光蓝",
+          "suggest":["高清全面屏","1600万双摄","麒麟八核"],
+          "price":"999",
+          "hui":"大惠聚",
+          "go":"赠品",
+          "pingjia":"20万+条评价",
+          "haoping":"好评率99%"
+        },
+        {
+          "id":"008",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_xlpro2.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"荣耀10青春版 4GB+64GB  全网通版智能手机",
+          "suggest":["幻彩渐变","2400万AI自拍","珍珠屏"],
+          "price":"1399",
+          "hui":"抢",
+          "go":"满1380-50",
+          "pingjia":"1700+条评价",
+          "haoping":"好评率98%"
+        },
+        {
+          "id":"009",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_xlpro3.png" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"Apple iPhone XR 128GB移动联通电信4G手机",
+          "suggest":["双卡双待","面容ID","A12仿生"],
+          "price":"6199",
+          "hui":"大惠聚",
+          "go":"赠品",
+          "pingjia":"9.8万+条评价",
+          "haoping":"好评率99%"
+        },
+        {
+          "id":"010",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_xlpro4.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"自营",
+          "shopcont":"荣耀8X 4GB+64GB  全网通版 全面屏智能手机",
+          "suggest":["91%屏占比","AI双摄","窄边框全面屏"],
+          "price":"1399",
+          "hui":"抢",
+          "go":"满1380-50",
+          "pingjia":"1.5万+条评价",
+          "haoping":"好评率99%"
+        }
+      ]
+
+
+    },
+    {"pageName":"价格",
+      "product":[
+        {
+          "id":"011",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_pro2.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"",
+          "shopcont":"8848 M5【鳄鱼皮 巧克力棕】私人订制鳄鱼皮智能商务加密轻奢手机 双卡双待 全网通4G 8核256G",
+          "suggest":["91%屏占比","AI双摄","窄边框全面屏"],
+          "price":"29999",
+          "hui":"苏宁益品",
+          "go":"赠品",
+          "pingjia":"",
+          "haoping":""
+        },
+        {
+          "id":"012",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_jgpro1.jpg" ,
+          "picjiao":"",
+          "shopi":"苏宁国际",
+          "shopcont":"HUAWEI/华为mate20 RS保时捷设计限量版 最新旗舰mate20 RS 8+512GB 炫黑",
+          "suggest":["蓝宝石屏幕","纯金logo","免费私人定制"],
+          "price":"23800",
+          "hui":"苏宁益品",
+          "go":"满5500-250",
+          "pingjia":"20+条评价",
+          "haoping":"好评率100%"
+        },
+        {
+          "id":"013",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_jgpro2.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"",
+          "shopcont":"8848 M5【勃垦第酒红蜥蜴皮】钛金手机 私人订制蜥蜴皮智能商务加密轻奢手机 双卡双待 全网通4G 8核256G",
+          "suggest":["全网通4G","8核256G","真实计时表盘"],
+          "price":"21999",
+          "hui":"苏宁益品",
+          "go":"赠品"
+        },
+        {
+          "id":"014",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_jgpro3.jpg" ,
+          "picjiao":"../../static/img/goodslist_nianhuo.png",
+          "shopi":"苏宁国际",
+          "shopcont":"【现货当天发送原装无线充】三星(SAMSUNG) 三星 心系天下 W2019 6GB+256GB 尊铂银 移动联通电信 全网通4G",
+          "suggest":["骁龙845","侧面指纹识别","无线充电"],
+          "price":"21999",
+          "hui":"赠品",
+          "go":"满99返5",
+          "pingjia":"40+条评价",
+          "haoping":"好评率96%"
+        },
+        {
+          "id":"015",
+          "num":"0",
+          "checkStatus":true,
+          "picbig":"../../static/img/goodslist_jgpro4.png" ,
+          "shopi":"苏宁国际",
+          "shopcont":"克里特（kreta） HERO 高端商务轻奢贵族手机 全网通双系统私人助理 6+128G 满天星奢钻版 臻美鳄鱼皮",
+          "suggest":["安全双系统","56颗水晶钻","AI智能语音"],
+          "price":"20999",
+          "hui":"苏宁益品",
+          "go":"抢"
+        }
+      ]
+    }
+  ]
+}
